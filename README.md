@@ -1,1 +1,2 @@
 # penguins-data-cleaning-visualization
+This Jupyter notebook demonstrates the process of cleaning and visualizing the "penguins" dataset from Seaborn. It covers key data cleaning techniques, handling missing values, and includes data visualizations. Key sections include importing libraries, loading the dataset, handling missing values, exporting the cleaned data, and creating various plots. This resource is useful for understanding data cleaning and visualization using Python's libraries.
